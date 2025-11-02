@@ -11,7 +11,7 @@
 &nbsp;&nbsp;=>SSH (22)<br>
 6. Launch the instance.<br>
 <img width="1014" height="503" alt="image" src="https://github.com/user-attachments/assets/88f8b6a8-50f3-4833-a1ce-8c9fdb15e959" />
-## II. Connect to EC2 Instance (Using PuTTY/SSH)
+# II. Connect to EC2 Instance (Using PuTTY/SSH) 
 1. Download the putty.exe file and install it on your device.<br>
 2. Open PuTTY.<br>
 3. Go to Connection > SSH > Auth.<br>
@@ -20,14 +20,14 @@
 ```
 login as username: ubuntu
 ```
-## III. Install Apache
+# III. Install Apache<br>
 Check in browser → http://yourpublicip
 <br>
 An Apache page will be shown at your public IP.<br>
 ```
-cd /var/www/html 
-sudo rm index.html 
- sudo vi index.html
+cd /var/www/html <br>
+sudo rm index.html <br>
+ sudo vi index.html<br>
 ```
 Press I to insert your own html code.<br>
 Write your own code.<br>
