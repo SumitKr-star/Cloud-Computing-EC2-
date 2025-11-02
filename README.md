@@ -13,7 +13,7 @@
 <img width="1014" height="503" alt="image" src="https://github.com/user-attachments/assets/88f8b6a8-50f3-4833-a1ce-8c9fdb15e959" />
 <br>
 <br>
-,br>
+
 # II. Connect to EC2 Instance (Using PuTTY/SSH) 
 1. Download the putty.exe file and install it on your device.<br>
 2. Open PuTTY.<br>
@@ -32,7 +32,7 @@ An Apache page will be shown at your public IP.<br>
 ```
 cd /var/www/html <br>
 sudo rm index.html <br>
- sudo vi index.html<br>
+sudo vi index.html<br>
 ```
 Press I to insert your own html code.<br>
 Write your own code.<br>
