@@ -9,3 +9,5 @@
 &nbsp;&nbsp;=>HTTP (80)<br>
 &nbsp;&nbsp;=>HTTPS (443)<br>
 &nbsp;&nbsp;=>SSH (22)<br>
+6. Launch the instance
+![Alt Text](<img width="1014" height="503" alt="image" src="https://github.com/user-attachments/assets/88f8b6a8-50f3-4833-a1ce-8c9fdb15e959" />)
