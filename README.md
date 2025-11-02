@@ -46,4 +46,4 @@ After writing all code, Press Ctrl+C and then write ":wq" and Press Enter.
 <br>
 
 # IV. Map Domain with Route 53
- Register your own domain name
+- Register your own domain name.
