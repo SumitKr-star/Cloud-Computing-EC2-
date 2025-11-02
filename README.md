@@ -25,6 +25,7 @@ login as username: ubuntu
 ```
 <br>
 <br>
+
 # III. Install Apache<br>
 Check in browser → http://yourpublicip
 <br>
