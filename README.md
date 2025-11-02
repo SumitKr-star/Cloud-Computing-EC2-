@@ -12,8 +12,8 @@
 6. Launch the instance.<br>
 <img width="1014" height="503" alt="image" src="https://github.com/user-attachments/assets/88f8b6a8-50f3-4833-a1ce-8c9fdb15e959" />
 <br>
-
-```
+<br>
+,br>
 # II. Connect to EC2 Instance (Using PuTTY/SSH) 
 1. Download the putty.exe file and install it on your device.<br>
 2. Open PuTTY.<br>
@@ -23,7 +23,7 @@
 ```
 login as username: ubuntu
 ```
-```
+<br>
 <br>
 # III. Install Apache<br>
 Check in browser → http://yourpublicip
