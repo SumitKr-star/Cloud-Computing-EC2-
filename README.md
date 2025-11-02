@@ -46,4 +46,16 @@ After writing all code, Press Ctrl+C and then write ":wq" and Press Enter.
 <br>
 
 # IV. Map Domain with Route 53
-- Register your own domain name.
+- Register your own domain name.<br>
+- Go to Route 53 on AWS, click on Hosted Zones.<br>
+You will get four NS name server. # Docker Install
+<br>
+<br>
+## Quick Install
+curl -sL https://github.com/ShubhamTatvamasi/docker-install/raw/master/docker-install.sh | bash install packages:
+```
+sudo apt update sudo apt install -y \ apt-transport-https \ ca-certificates \ curl \ gnupg \ lsb-release \ jq
+```
+<br>
+Add Docker’s official GPG key:
+
