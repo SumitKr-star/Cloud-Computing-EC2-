@@ -42,3 +42,7 @@ sudo vi index.html<br>
 Press I to insert your own html code.<br>
 Write your own code.<br>
 After writing all code, Press Ctrl+C and then write ":wq" and Press Enter.
+<br>
+<br>
+
+# IV. Map Domain with Route 53
