@@ -6,9 +6,9 @@
 3. Create and use a key pair for SSH access.
 4. Use PuTTY to connect to the instance.
 5. Allow the following inbound ports in the security group:<br>
-&nbsp;&nbsp;HTTP (80)<br>
-&nbsp;&nbsp;HTTPS (443)<br>
-&nbsp;&nbsp;SSH (22)<br>
+&nbsp;&nbsp; HTTP (80)<br>
+&nbsp;&nbsp; HTTPS (443)<br>
+&nbsp;&nbsp; SSH (22)<br>
 6. Launch the instance.<br>
 <img width="1014" height="503" alt="image" src="https://github.com/user-attachments/assets/88f8b6a8-50f3-4833-a1ce-8c9fdb15e959" />
 <br>
@@ -46,4 +46,4 @@ After writing all code, Press Ctrl+C and then write ":wq" and Press Enter.
 <br>
 
 # IV. Map Domain with Route 53
-Register your own domain name
+ Register your own domain name
